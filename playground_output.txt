@@ -1,0 +1,54 @@
+Practicing Basic Program
+Hello Word
+What is your name: Salman
+Hello Salman
+Hello Salman
+Done practicing Basic Program
+
+
+Practicing Variables
+Variable i has the value 120
+Variable f has the value 1.6180339 and its type is <class 'float'>
+Variable b has the value True
+Variable n has the value of None
+ c[0] has the value 10 and is of type: <class 'tuple'>
+ l[0] has the value 10 and is of type: <class 'list'>
+{1, 4, 6}
+Done practicing Variables
+
+
+Practicing Conditionals
+The number is positive
+Done practicing Conditionals
+
+
+Practicing Loops
+0
+1
+2
+3
+4
+0 - 2
+1 - 3
+2 - 4
+3 - 5
+4 - 6
+5 - 7
+6 - 8
+7 - 9
+done practicing loops
+
+
+practicing functions
+done practicing functions
+
+
+practicing classes
+done practicing classes
+
+
+practicing use a module
+practicing definig a module file
+done practicing define a module file
+10000
+done practicing use a module
