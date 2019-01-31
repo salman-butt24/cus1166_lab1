@@ -13,6 +13,9 @@ def __main__():
     studentRoster.append(Student("Tiffany", 91))
     studentRoster.append(Student("Brianna", 64))
 
-    for i in studentRoster:
-        i.print_student_info()
+    for students in studentRoster:
+        students.print_student_info()
+
+    print(f"Avaerage of student grades is equal to: {average_grade(sutdentRoser)}")    
+
 __main__()
