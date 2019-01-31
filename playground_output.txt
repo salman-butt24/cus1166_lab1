@@ -7,11 +7,11 @@ Done practicing Basic Program
 
 
 Practicing Variables
-Variable i has the value 120
-Variable f has the value 1.6180339 and its type is <class 'float'>
+Variable i has the value 139
+Variable f has the value 58.7484 and its type is <class 'float'>
 Variable b has the value True
 Variable n has the value of None
- c[0] has the value 10 and is of type: <class 'tuple'>
+ c[0] has the value 20 and is of type: <class 'tuple'>
  l[0] has the value 10 and is of type: <class 'list'>
 {1, 4, 6}
 Done practicing Variables

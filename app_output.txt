@@ -1,0 +1,10 @@
+Salman has a grade of 100
+Rick has a grade of 95
+Shivam has a grade of 79
+Davian has a grade of 88
+Puneet has a grade of 67
+Jessica has a grade of 46
+Michelle has a grade of 93
+Kim has a grade of 57
+Tiffany has a grade of 91
+Brianna has a grade of 64

@@ -15,10 +15,10 @@ print("Done practicing Basic Program\n\n")
 
 print("Practicing Variables")
 
-i = 120
+i = 139
 print(f"Variable i has the value {i}")
 
-f = 1.6180339
+f = 58.7484
 print(f"Variable f has the value {f} and its type is {type(f)}")
 
 b = True
@@ -28,11 +28,11 @@ n = None
 print(f"Variable n has the value of {n}")
 
 # tuple
-c = (10,20,10)
+c = (20,40,20)
 print(f" c[0] has the value {c[0]} and is of type: {type(c)}")
 
 # list
-l = ["Anna", "Tom", "John"]
+l = ["Salman", "Rick", "Shivam"]
 l = [10,20,30]
 print(f" l[0] has the value {l[0]} and is of type: {type(l)}")
 
@@ -44,9 +44,9 @@ s.add(6)
 print(s)
 
 # Dictionary
-grades = {"Tom" : "A", "Mark": "B-"}
-grades["Tom"]
-grades["Anna"] = "F"
+grades = {"Salman" : "A", "Rick": "B-"}
+grades["Salman"]
+grades["Rick"] = "F"
 
 
 # Create an empty dictionary .
