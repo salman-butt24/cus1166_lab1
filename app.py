@@ -1,4 +1,5 @@
 from mymodules.models import Student
+from mymodules.math_utils import average_grade
 
 def __main__():
     studentRoster = []
@@ -16,6 +17,6 @@ def __main__():
     for students in studentRoster:
         students.print_student_info()
 
-    print(f"Avaerage of student grades is equal to: {average_grade(sutdentRoser)}")    
+    print(f"The average grade of all students in the class is: {average_grade(studentRoster)}")
 
 __main__()

@@ -1,10 +1,11 @@
-Salman has a grade of 100
-Rick has a grade of 95
-Shivam has a grade of 79
-Davian has a grade of 88
-Puneet has a grade of 67
-Jessica has a grade of 46
-Michelle has a grade of 93
-Kim has a grade of 57
-Tiffany has a grade of 91
-Brianna has a grade of 64
+Salman has a 100 in the class
+Rick has a 95 in the class
+Shivam has a 79 in the class
+Davian has a 88 in the class
+Puneet has a 67 in the class
+Jessica has a 46 in the class
+Michelle has a 93 in the class
+Kim has a 57 in the class
+Tiffany has a 91 in the class
+Brianna has a 64 in the class
+The average grade of all students in the class is: 78.0
